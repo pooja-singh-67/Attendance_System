@@ -1,0 +1,120 @@
+
+img
+{
+	height:50px;
+	width:50px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    text-align:center;
+}
+form {
+    border: 3px solid #f1f1f1;
+}
+
+input[type=text], input[type=password] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.input1
+{
+   width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box; 
+}
+button.login{
+    background-color: #4CAF50;
+    color: whitesmoke;
+    padding: 14px 20px;
+    margin: 12px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+label{
+	color: black;
+}
+
+
+.container {
+    padding: 16px;
+}
+
+
+
+body{
+background-image: url("science.jpg");
+}
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+}
+.button2{
+   padding: 10px 15px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 7px;
+  
+  
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+h1{
+    text-align: center;
+    font-family:century gothic;font-weight:200; font-size:80px; 
+   	padding:8px;
+	
+	}
+
+div {
+    font-family:century gothic;font-weight:200; font-size:35px; 
+    text-align:center; 
+      text-color:black;
+	padding:17px;
+	margin-top :50px;
+	margin-bottom:0px;
+	}
+
